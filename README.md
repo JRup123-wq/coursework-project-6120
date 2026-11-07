@@ -2,4 +2,4 @@
 
 ## Disclaimer
 
-This project is for educational purposes only.
+Educational cybersecurity demonstration project. All data shown in the website is fictional and created for academic purposes only.
