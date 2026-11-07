@@ -1,3 +1,5 @@
 # Coursework Project 6120
 
-Educational cybersecurity demonstration project.
+## Disclaimer
+
+This project is for educational purposes only.
